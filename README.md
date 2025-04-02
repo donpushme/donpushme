@@ -5,7 +5,7 @@
 C/C++, Java, Typescript, Javascript, Rust, C#, Solidity, HTML, CSS, VBA
 
 ### Stacks
-.NET, Acchor, React, React-Native, Next.js, Vue.js, Angular.js, Unity
+.NET, Anchor, React, React-Native, Next.js, Vue.js, Angular.js, Unity
 
 ![](https://komarev.com/ghpvc/?username=donpushme)
 <p align = "left">
