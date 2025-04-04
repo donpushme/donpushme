@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am a Developer
+## Senior fullstack, web3 Developer
 ### Languages
 C/C++, Java, Typescript, Javascript, Rust, C#, Solidity, HTML, CSS, VBA
 
