@@ -2,10 +2,10 @@
 
 ## Senior fullstack, web3 Developer
 ### Languages
-C/C++, Java, Typescript, Javascript, Rust, C#, Solidity, HTML, CSS, VBA
+C/C++, Java, Python, Typescript, Javascript, Rust, C#, Solidity, HTML, CSS, VBA
 
 ### Stacks
-.NET, Anchor, React, React-Native, Next.js, Vue.js, Angular.js, Unity
+.NET, Anchor, Django React, React-Native, Next.js, Vue.js, Angular.js, Unity
 
 ![](https://komarev.com/ghpvc/?username=donpushme)
 <p align = "left">
