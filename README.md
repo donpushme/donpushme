@@ -4,6 +4,17 @@
 
 ## Senior Fullstack, web3 Developer
 
+Versatile Blockchain & Fullstack Developer with over 5 years of experience specializing in DeFi
+ecosystems across multiple chains including Cronos, zkCronos, Solana, and EVM-compatible
+networks. Demonstrated expertise in developing sophisticated DEX platforms, cross-chain token
+bridges, NFT marketplaces, and comprehensive DeFi applications from concept to production.
+Highly skilled in Solidity, TypeScript, React, Next.js, and Rust with a proven track record of
+optimizing smart contract performance and implementing secure blockchain solutions.
+Experienced in building scalable token launch platforms that have supported over $5M in token
+sales and engineered cross-chain solutions with robust verification mechanisms. Combines deep
+technical knowledge of blockchain architecture with practical fullstack development capabilities
+to deliver innovative, user-focused decentralized applications.
+
 ## Chains I am working on
 Solana, Ethereum, Cronos, Zetachain, Avalanche, BSC, Base, Sui, Abstract, Sonic
 
